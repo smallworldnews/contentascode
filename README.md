@@ -4,6 +4,6 @@ There are many great guides to help you securely send media files online. But we
 
 This particular instance of the guide is being implemented as a fork of the the [**Content as Code**](https://github.com/iilab/contentascode) project from [iilab](http://iilab.org).
 
-## How the Guide workflows
+## How the Guide works
 
-The guide is split up into three sections: Plan Your Story, Record Your Story, and Share Your Story. It is designed to instruct someone who has never taken a photo or shot video before through the entire process of telling a story with these media. It is also for anyone looking to review or reference specific parts of the process. Each section is designed so that you can skip ahead if you already understand it, or focus on that specific part.
+The guide is split up into three sections: [Plan Your Story](plan), [Record Your Story](record), and [Share Your Story](share). It is designed to instruct someone who has never taken a photo or shot video before through the entire process of telling a story with these media. It is also for anyone looking to review or reference specific parts of the process. Each section is designed so that you can skip ahead if you already understand it, or focus on that specific part.
