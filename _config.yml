@@ -1,13 +1,13 @@
 markdown: kramdown
 permalink: pretty
-title: Content as Code
-tagline: Developing workflows and technology to improve content re-use and maintainability.
-description: Developing workflows and technology to improve content re-use and maintainability.
-url: 'http://iilab.github.io'
-baseurl: /contentascode
+title: Safely & Securely Producing Media
+tagline: ....
+description: ...
+url: 'http://smallworldnews.github.io'
+baseurl: /safelySecurelyProducingMedia
 author:
-  name: Jun Matsushita (iilab.org)
-  url: 'https://twitter.com/iilab'
+  name: Small World News (smallworldnews.com)
+  url: 'https://www.smallworldnews.com'
 defaults:
   - scope:
       path: ''
@@ -32,7 +32,7 @@ redcarpet:
     - smart
 github:
   current_branch: master
-  repository_url: 'https://github.com/iilab/contentascode'
+  repository_url: 'https://github.com/smallworldnews/safelySecurelyProducingMedia'
 gems:
   - jekyll-sitemap
   - jekyll-gist
@@ -47,6 +47,6 @@ exclude:
   - '*.Rmd'
   - vendor
   - .travis.yml
-username: jmatsushita
-owner: iilab
-repo: contentascode
+username: smallworldnews
+owner: smallworldnews
+repo: safelySecurelyProducingMedia
