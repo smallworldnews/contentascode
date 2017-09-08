@@ -6,7 +6,9 @@ This particular instance of the guide is being implemented as a fork of the the 
 
 ## How the Guide works
 
-<img src="images/stop-02.svg" alt="stop" height="150" width="150"></img> The guide is split up into three sections: [Plan Your Story](plan), [Record Your Story](record), and [Share Your Story](share). It is designed to instruct someone who has never taken a photo or shot video before through the entire process of telling a story with these media. It is also for anyone looking to review or reference specific parts of the process. Each section is designed so that you can skip ahead if you already understand it, or focus on that specific part.
+<img src="images/stop-02.svg" alt="stop" height="75" width="75"></img>
+
+The guide is split up into three sections: [Plan Your Story](plan), [Record Your Story](record), and [Share Your Story](share). It is designed to instruct someone who has never taken a photo or shot video before through the entire process of telling a story with these media. It is also for anyone looking to review or reference specific parts of the process. Each section is designed so that you can skip ahead if you already understand it, or focus on that specific part.
 
 If you’re reading this guide as a PDF on a computer or digital device, text that has a black box around it is a hyperlink to a website. For example:
 
