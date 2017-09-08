@@ -1,7 +1,5 @@
 ## 1.1 ARE YOU AT RISK?
 
----------------------------------------
-
 ### Are you living in a dictatorship?
 
 ### Is corruption a problem?
