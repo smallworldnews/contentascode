@@ -18,7 +18,7 @@ If your answers to any of these questions is Yes then you’re likely to be at r
 
 Risk can come from many places. Be mindful of your surroundings and avoid interacting with anyone you don’t trust.
 
-| Long Shot | Medium Shot |
+| Does the Amount of Text impact the width of the image |  Shot |
 |-----------|-------------|
 | ![Long shot](../images/2-longshot_numbers.svg) | ![Medium shot](../images/3-mediumshot_numbers.svg) |
 
