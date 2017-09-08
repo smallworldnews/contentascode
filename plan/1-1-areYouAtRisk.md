@@ -18,7 +18,7 @@ Risk can come from many places. Be mindful of your surroundings and avoid intera
 
 | .................................................. | .................................................. |  .................................................. |
 |-----------|-------------|-------------|
-| ![Long shot](../images/2-longshot_numbers.svg) | ![Medium shot](../images/3-mediumshot_numbers.svg) | ![Medium shot](../images/3-mediumshot_numbers_script.svg) |
+| ![Long shot](../images/2-longshot_numbers.svg) | ![Medium shot](../images/3-medium_numbers.svg) | ![Closeup shot](../images/4-closeup_numbers.svg) |
 
 #### 1 - Direct Enemies
 Police, Military, Gangs, Political Opponents.
